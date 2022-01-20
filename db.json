@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "name": "jhon doe",
+      "email": "JHON@GMAIL.COM",
+      "phonenumber": "081983451232",
+      "category": "friends",
+      "id": 2
+    },
+    {
+      "name": "budi",
+      "email": "budi@gmail.com",
+      "phonenumber": "089823234343",
+      "category": "friends",
+      "id": 3
+    },
+    {
+      "name": "ani",
+      "email": "ani@gmail.com",
+      "phonenumber": "083244445555",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "name": "joki",
+      "email": "joki@gmail.com",
+      "phonenumber": "089723334444",
+      "category": "friends",
+      "id": 5
+    },
+    {
+      "name": "nana",
+      "email": "nana@gmail.com",
+      "phonenumber": "082344445555",
+      "category": "work",
+      "id": 6
+    },
+    {
+      "name": "nani",
+      "email": "nani@gmail.com",
+      "phonenumber": "08352323444",
+      "category": "friends",
+      "id": 7
+    },
+    {
+      "name": "kaka",
+      "email": "kaka@gmail.id",
+      "phonenumber": "083744445555",
+      "category": "friends",
+      "id": 8
+    }
+  ]
+}
